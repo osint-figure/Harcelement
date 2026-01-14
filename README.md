@@ -44,6 +44,11 @@
     - [3.6.3. Call-out Culture (culture de la Dénonciation)](#363-call-out-culture-culture-de-la-dénonciation)
     - [3.6.4. Cancel Culture (culture de L'annulation)](#364-cancel-culture-culture-de-lannulation)
   - [3.7. Interconnexions entre les Formes de Harcèlement](#37-interconnexions-entre-les-formes-de-harcèlement)
+  - [3.8. Groupes et Forums de Harcèlement](#38-groupes-et-forums-de-harcèlement)
+    - [3.8.1. Types de groupes et forums](#381-types-de-groupes-et-forums)
+    - [3.8.2. Fonctionnement et dynamiques internes](#382-fonctionnement-et-dynamiques-internes)
+    - [3.8.3. Exemples connus (sans divulguer d'infos personnelles)](#383-exemples-connus-sans-divulguer-dinfos-personnelles)
+    - [3.8.4. Risques pour les victimes et implications](#384-risques-pour-les-victimes-et-implications)
 - [4. Données Statistiques Complètes sur le Cyberharcèlement](#4-données-statistiques-complètes-sur-le-cyberharcèlement)
   - [Prévalence Générale](#prévalence-générale)
     - [Population Majeure](#population-majeure)
@@ -372,6 +377,90 @@ Il est important de noter que ces différentes formes de harcèlement ne sont pa
 - Le **jugement** peut être commandité par un **edge killer**, créant une campagne de harcèlement qui semble spontanée.
 
 Comprendre ces interconnexions est crucial pour identifier et combattre les campagnes de harcèlement complexes et multi-couches.
+
+## 3.8. Groupes et Forums de Harcèlement
+
+Le cyberharcèlement ne se limite pas à des actes individuels isolés. Il est souvent le fruit d'actions coordonnées et amplifiées par des groupes et des forums en ligne qui fournissent une structure, une idéologie et un soutien logistique à la haine collective. Ces espaces, qu'ils soient publics ou privés, agissent comme des chambres d'écho où la violence est non seulement normalisée mais encouragée, créant un environnement toxique aux conséquences dévastatrices pour les victimes. Comprendre leur nature et leur fonctionnement est essentiel pour saisir toute l'ampleur du phénomène.
+
+### 3.8.1. Types de groupes et forums
+
+Les plateformes de harcèlement organisé sont extrêmement diverses et s'adaptent constamment aux tentatives de modération. Elles peuvent être classées en plusieurs catégories, chacune présentant des caractéristiques et des niveaux de risque spécifiques.
+
+#### Forums Anonymes et "Imageboards"
+
+Ces plateformes constituent l'une des sources les plus importantes de harcèlement coordonné. Caractérisées par un anonymat quasi total et une modération très laxiste, elles sont devenues des foyers notoires pour la coordination de campagnes de harcèlement, la diffusion de discours de haine et la culture de mèmes extrémistes. Parmi les plus notables, on trouve **4chan** et ses dérivés comme **4plebs**, **8kun** (anciennement 8chan), **Endchan**, **Lainchan**, et **Lynxchan**. Des sites comme **Encyclopedia Dramatica** et **Kiwi Farms** se sont spécialisés dans la documentation obsessionnelle et le harcèlement systématique de personnalités en ligne. **Doxbin** et **Dread** sont des plateformes spécialisées dans la divulgation d'informations personnelles (doxxing) et la coordination d'attaques.
+
+#### Réseaux Sociaux Grand Public et Alternatifs
+
+Le harcèlement s'organise également au sein de plateformes plus larges. Des sections de **Reddit**, le forum **18-25 de Jeuxvideo.com**, des communautés sur **Something Awful**, ou des réseaux sociaux comme **Twitter/X** sont régulièrement utilisés pour des attaques coordonnées. Face à une modération jugée trop stricte, des plateformes alternatives ont émergé, attirant des communautés bannies d'ailleurs. Parmi celles-ci figurent **Gab**, **Parler**, et **Truth Social**, qui concentrent souvent des discours radicaux. D'autres plateformes comme **Stormfront**, **The Daily Stormer**, et **VDARE** sont explicitement dédiées à la promotion d'idéologies suprémacistes et de discours de haine.
+
+#### Messageries et Serveurs de Communication
+
+Pour échapper à la surveillance et à la modération, de nombreux groupes migrent vers des applications de communication privée. **Discord**, avec ses serveurs fermés, **Telegram** et ses canaux chiffrés, les anciens réseaux **IRC**, et **Slack** permettent une coordination discrète et efficace des attaques au sein de groupes fermés, rendant leur détection et leur démantèlement considérablement plus complexes.
+
+#### Réseaux Anonymes et Darknet
+
+Les réseaux d'anonymat comme **Tor Project forums** et les plateformes du darknet offrent un niveau supplémentaire de protection pour les groupes les plus extrémistes. Ces espaces permettent une coordination totalement anonyme et échappent largement aux mécanismes de modération des plateformes grand public.
+
+#### Groupes et Mouvements Structurés
+
+Au-delà des plateformes, le harcèlement est aussi le fait de groupes organisés avec une idéologie claire et une structure hiérarchique. Certains sont des collectifs de hackers ou de harceleurs spécialisés dans le cyberharcèlement et le doxxing, comme la **"Ligue du LOL"** en France, **dAn0n Hacker Group**, **KillNet**, **Leak Society**, ou **LolKow**. D'autres groupes, comme **676**, **764**, **AAST**, **Court**, **CVLT (Cult)**, **Deanon Club**, **Graves**, **H3ll**, **Harm Nation**, **Kaskar**, **No Live Matter**, et **The Com**, sont impliqués dans des campagnes de harcèlement extrêmes, incluant des menaces de mort, du doxxing, et du harcèlement sexuel.
+
+Des organisations terroristes d'extrême droite comme l'**Atomwaffen Division**, **National Action**, **The Base**, l'**Order of Nine Angles (O9A)**, **Iron March**, et **Terrorgram** utilisent le harcèlement en ligne comme une tactique de recrutement, de radicalisation et de terreur psychologique. Pour ces groupes, le cyberharcèlement n'est pas une fin en soi, mais un moyen de guerre psychologique visant à intimider leurs opposants, à affirmer leur présence et à recruter de nouveaux membres.
+
+Le tableau suivant synthétise les principales plateformes et groupes associés au cyberharcèlement et aux idéologies extrêmes.
+
+| Catégorie | Exemples de Plateformes et Groupes | Caractéristiques Principales |
+| :--- | :--- | :--- |
+| **Forums Anonymes & Imageboards** | 4chan, 4plebs, 8kun, Endchan, Lainchan, Lynxchan, Encyclopedia Dramatica, Kiwi Farms, Doxbin, Dread | Anonymat quasi-total, modération laxiste, coordination d'attaques, culture de la transgression, doxxing. |
+| **Réseaux Sociaux Grand Public** | Twitter/X, Reddit, Something Awful, JVC 18-25 | Large audience, viralité, formation de bulles idéologiques, modération variable. |
+| **Réseaux Sociaux Alternatifs** | Gab, Parler, Truth Social, Stormfront, The Daily Stormer, VDARE | Communautés bannies, discours radicaux, suprémacisme, idéologies extrêmes. |
+| **Messageries Privées** | Discord, Telegram, IRC, Slack | Communication chiffrée, groupes fermés, coordination discrète, contournement de la censure. |
+| **Réseaux Anonymes** | Tor Project forums | Anonymat total, échappement à la modération, coordination extrémiste. |
+| **Groupes de Harcèlement** | Ligue du LOL, 676, 764, AAST, Court, CVLT, Deanon Club, Graves, H3ll, Harm Nation, Kaskar, KillNet, Leak Society, LolKow, No Live Matter, The Com, Vile | Spécialisation dans le harcèlement, doxxing, cybercriminalité, menaces. |
+| **Groupes Terroristes Extrémistes** | Atomwaffen Division, National Action, The Base, O9A, Iron March, Terrorgram | Néonazisme, suprémacisme, recrutement, incitation au terrorisme, guerre psychologique. |
+
+### 3.8.2. Fonctionnement et dynamiques internes
+
+La puissance de ces groupes réside dans leurs dynamiques psychosociales spécifiques, qui transforment des individus isolés en une meute numérique coordonnée.
+
+> Le dogpiling est une forme de harcèlement en ligne et d'effet de meute dans laquelle de nombreuses personnes expriment d'un coup un désaccord envers une personne, créant une réaction disproportionnée à un événement déclencheur mineur [1].
+
+Plusieurs mécanismes psychosociaux sont à l'œuvre :
+
+*   **L'effet de meute (Mob Mentality) :** L'action collective dilue le sentiment de responsabilité individuelle. Chaque participant n'apporte qu'une "petite" contribution à l'attaque, ce qui banalise la violence globale de l'acte. Le groupe crée un rapport de force totalement déséquilibré, isolant la victime face à une marée d'agresseurs [1]. Cette dilution de la responsabilité est particulièrement efficace sur des plateformes comme **Discord** ou **Telegram**, où les attaques peuvent être coordonnées de manière quasi-militaire.
+
+*   **La chambre d'écho et la radicalisation :** Au sein de ces forums, les opinions extrêmes sont constamment répétées et validées, sans contre-discours significatif. Cette dynamique renforce les croyances des membres, les isole des perspectives extérieures et peut les conduire à une radicalisation rapide. Les idées les plus violentes finissent par paraître acceptables, voire nécessaires. Les plateformes comme **Stormfront**, **The Daily Stormer**, ou les serveurs **Telegram** spécialisés sont des exemples paradigmatiques de cette dynamique.
+
+*   **La construction d'une identité et d'un jargon :** L'appartenance au groupe est renforcée par la création d'une identité collective forte, souvent en opposition à un "ennemi" commun (les femmes pour les incels, les minorités pour les suprémacistes, etc.). L'adoption d'un jargon spécifique soude la communauté et la distingue du monde extérieur, tout en déshumanisant les cibles. Cette pratique est particulièrement développée sur les imageboards comme **4chan** ou **8kun**.
+
+*   **La coordination technologique et l'automatisation :** Les groupes les plus sophistiqués, comme **KillNet** ou **dAn0n Hacker Group**, utilisent des outils technologiques avancés pour amplifier leurs attaques. Cela inclut l'utilisation de bots, de faux comptes, d'intelligence artificielle pour générer du contenu haineux, et de techniques de DDoS pour paralyser les services en ligne. Cette automatisation transforme le harcèlement en une arme de guerre numérique.
+
+### 3.8.3. Exemples connus (sans divulguer d'infos personnelles)
+
+Plusieurs cas emblématiques illustrent la dangerosité de ces groupes organisés et la diversité de leurs méthodes.
+
+*   **La sous-culture Incel :** L'exemple le plus tragique est celui des communautés "incels" qui prospèrent sur des forums comme **Wizardchan** ou anciennement sur **Reddit**. Initialement conçu comme un groupe de soutien non-misogyne, le mouvement a muté en une idéologie misogyne violente. Cette idéologie a été directement liée à de multiples tueries de masse, notamment celle d'Elliot Rodger à Isla Vista en 2014 et celle d'Alek Minassian à Toronto en 2018. Ces forums ne se contentent pas de discuter ; ils inspirent et glorifient la violence réelle [2].
+
+*   **Les groupes de harcèlement organisé français :** La **"Ligue du LOL"** a démontré comment des individus intégrés socialement pouvaient organiser des campagnes de harcèlement systématique entre 2009 et 2012, principalement contre des femmes et des militants. Plus récemment, des collectifs comme **Harm Nation**, **Vile**, **Graves**, ou **H3ll** ont été associés à des campagnes de harcèlement extrêmes, incluant des menaces de mort, du doxxing, et du harcèlement sexuel, souvent coordonnées via des serveurs **Discord** ou des canaux **Telegram**.
+
+*   **Les groupes de hackers et de cybercriminels :** Des collectifs comme **KillNet**, **dAn0n Hacker Group**, **Leak Society**, et **AAST** se sont spécialisés dans le doxxing, le piratage de comptes, et la divulgation d'informations personnelles sur des plateformes comme **Doxbin** et **Dread**. Ces groupes ciblent souvent des personnalités publiques, des activistes, ou des individus ayant exprimé des opinions jugées "incorrectes" selon leurs critères.
+
+*   **Les mouvements terroristes en ligne :** Des groupes néonazis comme l'**Atomwaffen Division**, **National Action**, **The Base**, l'**Order of Nine Angles (O9A)**, ou **Iron March** ont utilisé des plateformes comme **Telegram**, **Discord**, et les forums du darknet pour recruter, diffuser leur propagande, et planifier des actes terroristes. **Terrorgram** est un écosystème entier de canaux **Telegram** dédiés à la promotion du terrorisme d'extrême droite. Pour ces groupes, le harcèlement en ligne est une tactique de guerre psychologique visant à intimider leurs opposants et à affirmer leur présence.
+
+*   **Les campagnes coordonnées sur les réseaux sociaux :** Des groupes comme **Court**, **The Com**, **No Live Matter**, ou **CVLT (Cult)** organisent régulièrement des "raids" coordonnés sur **Twitter/X**, **Reddit**, ou **Something Awful**, ciblant des individus ou des causes avec un déluge de messages haineux, de fausses informations, et de menaces.
+
+### 3.8.4. Risques pour les victimes et implications
+
+L'exposition à un harcèlement de groupe organisé a des conséquences profondes et durables pour les victimes, bien au-delà d'une simple "peine de cœur" numérique.
+
+Les impacts psychologiques sont particulièrement sévères. Des études et rapports montrent que les victimes de cyberharcèlement souffrent massivement de **stress, d'anxiété, de crises de panique, et de dépression** [3][4]. Le sentiment d'être traqué par une foule invisible et implacable peut mener à un état de peur constante. On observe également une **chute drastique de l'estime de soi**, un sentiment de honte et de culpabilité, et dans les cas les plus graves, des **idées suicidaires et des actes d'automutilation** [5].
+
+Sur le plan social, le harcèlement de groupe conduit à un **isolement progressif**. La victime peut se retirer des réseaux sociaux pour échapper aux attaques, perdant ainsi un espace de socialisation et de soutien. La peur et la méfiance peuvent s'étendre aux interactions hors ligne, affectant la vie professionnelle, scolaire et familiale [6].
+
+Les implications dépassent la sphère individuelle. La crainte d'une attaque en meute peut instaurer un **"chilling effect"** (effet dissuasif), où les individus, et en particulier les femmes et les minorités, s'autocensurent et n'osent plus s'exprimer sur des sujets de société, de peur de devenir la prochaine cible. Le harcèlement de groupe constitue ainsi une menace directe pour la liberté d'expression et la qualité du débat démocratique en ligne.
+
+De plus, le harcèlement organisé peut avoir des conséquences légales et professionnelles graves. Les victimes de doxxing par des groupes comme **Leak Society**, **Doxbin**, ou **AAST** voient leurs informations personnelles, adresses, numéros de téléphone, et parfois même leurs données bancaires diffusées publiquement, les exposant à des risques physiques réels et à du harcèlement hors ligne.
 
 # 4. Données Statistiques Complètes sur le Cyberharcèlement
 
