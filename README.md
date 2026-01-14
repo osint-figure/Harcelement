@@ -43,6 +43,30 @@
     - [3.6.2. Victim-blaming (culpabilisation de la Victime)](#362-victim-blaming-culpabilisation-de-la-victime)
     - [3.6.3. Call-out Culture (culture de la Dénonciation)](#363-call-out-culture-culture-de-la-dénonciation)
     - [3.6.4. Cancel Culture (culture de L'annulation)](#364-cancel-culture-culture-de-lannulation)
+    - [3.6.5. Bashing](#365-bashing)
+    - [3.6.6. Body Shaming](#366-body-shaming)
+    - [3.6.7. Challenge (Défi en ligne)](#367-challenge-défi-en-ligne)
+    - [3.6.8. Chantage à la Webcam](#368-chantage-à-la-webcam)
+    - [3.6.9. Dickpic](#369-dickpic)
+    - [3.6.10. Happy Slapping (Vidéolynchage)](#3610-happy-slapping-vidéolynchage)
+    - [3.6.11. Hashtag Toxique (Hashtag Poisoning)](#3611-hashtag-toxique-hashtag-poisoning)
+    - [3.6.12. Infantilisation (Lollipopping)](#3612-infantilisation-lollipopping)
+    - [3.6.13. Raid Numérique](#3613-raid-numérique)
+    - [3.6.14. Cyberbullying (Cyberintimidation)](#3614-cyberbullying-cyberintimidation)
+    - [3.6.15. Hameçonnage (Phishing)](#3615-hameçonnage-phishing)
+    - [3.6.16. Attaques par Déni de Service (DoS)](#3616-attaques-par-déni-de-service-dos)
+    - [3.6.17. Bombardement de Messages (Message Bombing)](#3617-bombardement-de-messages-message-bombing)
+    - [3.6.18. Attaque par Déni de Service Distribué (DDoS)](#3618-attaque-par-déni-de-service-distribué-ddos)
+    - [3.6.19. Attaque en Ligne Coordonnée (Dogpiling)](#3619-attaque-en-ligne-coordonnée-dogpiling)
+    - [3.6.20. Harcèlement Codé (Dog Whistling - Sifflet de Chien)](#3620-harcèlement-codé-dog-whistling---sifflet-de-chien)
+    - [3.6.21. Piratage (Hacking)](#3621-piratage-hacking)
+    - [3.6.22. Flaming](#3622-flaming)
+    - [3.6.23. Name-calling (Utilisation de Surnoms Dégradants)](#3623-name-calling-utilisation-de-surnoms-dégradants)
+    - [3.6.24. Cyberflashing](#3624-cyberflashing)
+    - [3.6.25. Pornodivulgation](#3625-pornodivulgation)
+    - [3.6.26. Comptes Fisha](#3626-comptes-fisha)
+    - [3.6.27. Stream / Streameur.euse (Harcèlement via Contenu en Direct)](#3627-stream--streameureuse-harcèlement-via-contenu-en-direct)
+    - [3.6.28. Troll (Provocation en Ligne)](#3628-troll-provocation-en-ligne)
   - [3.7. Interconnexions entre les Formes de Harcèlement](#37-interconnexions-entre-les-formes-de-harcèlement)
   - [3.8. Groupes et Forums de Harcèlement](#38-groupes-et-forums-de-harcèlement)
     - [3.8.1. Types de groupes et forums](#381-types-de-groupes-et-forums)
@@ -366,6 +390,102 @@ La call-out culture est une pratique de dénonciation publique d'un comportement
 ### 3.6.4. Cancel Culture (culture de L'annulation)
 
 La cancel culture est le phénomène de boycott collectif et de rejet public d'une personne ou d'une marque pour un comportement jugé inacceptable. Elle peut être une forme de justice sociale, mais elle peut aussi dégénérer en harcèlement excessif et disproportionné.
+
+### 3.6.5. Bashing
+
+Le bashing est le dénigrement systématique et collectif d'une personne ou d'un groupe. Contrairement à la "session vanne" qui peut être ponctuelle et basée sur la moquerie, le bashing implique une intention de nuire sur la durée, s'apparentant à un lynchage médiatique continu. Cette tactique crée une stigmatisation progressive où la victime devient progressivement isolée et rejetée par son environnement social.
+
+### 3.6.6. Body Shaming
+
+Le body shaming est une forme d'humiliation ciblée sur l'apparence physique d'une personne. Les moqueries et insultes visent des caractéristiques jugées non conformes aux standards sociaux (poids, taille, musculature, traits faciaux, etc.), renforçant les complexes et l'anxiété sociale de la victime. Cette tactique est particulièrement prévalente sur les réseaux sociaux visuels comme Instagram et TikTok.
+
+### 3.6.7. Challenge (Défi en ligne)
+
+Un challenge est un défi lancé sur les réseaux sociaux. Si beaucoup sont inoffensifs ou amusants, certains peuvent inciter à des pratiques dangereuses, illégales ou humiliantes. Dans le contexte du harcèlement, un challenge peut être utilisé pour pousser une victime à s'auto-humilier, à se mettre en danger physique ou à se conformer à des demandes abusives sous la pression du groupe. Les challenges viraux peuvent rapidement devenir des outils de contrôle social.
+
+### 3.6.8. Chantage à la Webcam
+
+Le chantage à la webcam est le fait de menacer de publier sur Internet une vidéo intime de la victime enregistrée à son insu. Une rançon ou davantage de contenus intimes sont alors demandés pour qu'elle ne soit pas diffusée. Cette tactique combine l'extorsion, le chantage et le harcèlement sexuel, créant une situation où la victime se sent piégée et sans échappatoire.
+
+### 3.6.9. Dickpic
+
+Le dickpic est l'envoi non sollicité d'une photo de pénis, généralement en érection. Cette pratique est une forme de harcèlement sexuel et d'exhibitionnisme numérique, constituant une agression et une violation de l'intimité de la personne qui la reçoit. C'est particulièrement courant sur les applications de rencontre et les réseaux sociaux.
+
+### 3.6.10. Happy Slapping (Vidéolynchage)
+
+Le happy slapping consiste à filmer une agression physique (gifles, bousculades, passages à tabac) et à diffuser la vidéo en ligne pour humilier publiquement la victime. L'acte combine violence physique et violence numérique, démultipliant le traumatisme. Cette pratique transforme un acte de violence réelle en spectacle numérique, encourageant d'autres à reproduire le comportement.
+
+### 3.6.11. Hashtag Toxique (Hashtag Poisoning)
+
+Le hashtag toxique est une tactique consistant à créer un hashtag abusif ou à détourner un hashtag existant pour organiser et amplifier une campagne de harcèlement. Le hashtag devient un cri de ralliement pour dénigrer, intimider et coordonner les attaques contre une cible. Cette méthode permet de regrouper et de rendre virale une campagne de harcèlement de manière organisée.
+
+### 3.6.12. Infantilisation (Lollipopping)
+
+L'infantilisation est une tactique de décrédibilisation, visant principalement les femmes, qui consiste à utiliser un langage condescendant (surnoms comme 'ma poupée', 'chérie', 'ma petite') ou des arguments paternalistes pour rejeter leurs opinions et les exclure du débat. Cette technique vise à diminuer l'autorité et la légitimité d'une personne en la traitant comme un enfant incapable de comprendre.
+
+### 3.6.13. Raid Numérique
+
+Un raid numérique est une attaque coordonnée et massive menée par un groupe d'individus contre une personne ou une entité en ligne. Similaire au dogpiling, le terme 'raid' insiste sur l'aspect organisé et quasi-militaire de l'assaut, visant à submerger la cible de messages haineux, de spams, de fausses accusations ou de contenu offensant. Les raids numériques sont souvent planifiés sur des forums ou des serveurs Discord.
+
+### 3.6.14. Cyberbullying (Cyberintimidation)
+
+Le cyberbullying, ou cyberintimidation, englobe de nombreux comportements de harcèlement, mais se résume à « des préjudices délibérés et répétés causés par l'utilisation d'ordinateurs, de téléphones portables et d'autres appareils électroniques ». Le terme est principalement utilisé en ce qui concerne les enfants et les jeunes adultes, bien qu'il puisse s'appliquer à tous les groupes d'âge. C'est une forme généralisée de harcèlement numérique.
+
+### 3.6.15. Hameçonnage (Phishing)
+
+L'hameçonnage, ou phishing, est une escroquerie en ligne qui commence par une forme de communication (email, SMS, message WhatsApp) conçue pour donner l'impression qu'elle provient d'une source fiable. Le but est de vous inciter à faire quelque chose (cliquer sur un lien, ouvrir une pièce jointe) qui peut automatiquement télécharger un virus sur votre appareil ou vous amener à entrer des renseignements personnels, comme les détails de connexion, qui pourraient ensuite être utilisés pour prendre le contrôle de vos comptes en ligne.
+
+### 3.6.16. Attaques par Déni de Service (DoS)
+
+Les attaques par déni de service consistent à tirer parti des « caractéristiques d'une technologie ou d'une plateforme pour nuire à la cible, habituellement en empêchant l'accès aux outils ou aux plateformes numériques essentiels ». Ces attaques visent à rendre un service inaccessible à ses utilisateurs légitimes.
+
+### 3.6.17. Bombardement de Messages (Message Bombing)
+
+Le bombardement de messages est une tactique où les agresseurs inondent les comptes sur les réseaux sociaux, le téléphone ou la messagerie d'une personne ou d'une institution de messages indésirables visant à limiter ou à bloquer la capacité de la cible à utiliser cette plateforme. Cette technique crée un chaos numérique et peut paralyser les communications de la victime.
+
+### 3.6.18. Attaque par Déni de Service Distribué (DDoS)
+
+Une attaque par déni de service distribué (DDoS) est une cyberattaque qui provoque temporairement ou indéfiniment le plantage d'un site web ou d'un réseau qui devient donc indisponible et non fonctionnel, et ce en le noyant sous un flot de requêtes. Les attaques DDoS peuvent vous empêcher d'accéder à vos propres appareils et données, et elles peuvent compromettre les informations sensibles stockées sur vos appareils.
+
+### 3.6.19. Attaque en Ligne Coordonnée (Dogpiling)
+
+Une attaque en ligne coordonnée, également appelée dogpiling, est une forme de harcèlement en ligne et d'effet de meute dans laquelle de nombreuses personnes expriment d'un coup un désaccord envers une personne, créant une réaction disproportionnée à un événement déclencheur mineur. Lorsqu'un groupe d'agresseurs s'en prend collectivement à une cible en la noyant sous les menaces, les insultes, et en ayant recours à d'autres tactiques abusives, cette forme de cyberattaque coordonnée est axée sur l'exposition publique, l'humiliation et la punition.
+
+### 3.6.20. Harcèlement Codé (Dog Whistling - Sifflet de Chien)
+
+Le harcèlement codé, ou dog whistling, consiste à utiliser des mots ou des symboles avec une signification double (ou codée) qui est abusive ou nuisible, parfois pour signaler à un groupe d'agresseurs en ligne d'attaquer une cible spécifique. Cette technique permet aux harceleurs de communiquer des messages haineux de manière voilée, échappant souvent à la modération automatique des plateformes.
+
+### 3.6.21. Piratage (Hacking)
+
+Le piratage, ou hacking, est une intrusion non autorisée dans un appareil ou un réseau. Le piratage est souvent effectué dans l'intention d'attaquer, de nuire ou d'incriminer une autre personne en volant ses données, en violant sa vie privée ou en infectant ses appareils avec des virus. Dans le contexte du cyberharcèlement, le piratage peut être utilisé pour accéder aux comptes personnels de la victime et publier du contenu offensant en son nom.
+
+### 3.6.22. Flaming
+
+Le flaming est une guerre d'insultes en public sur les plateformes numériques. Contrairement aux insultes isolées, le flaming implique un échange agressif et répété d'insultes entre deux ou plusieurs personnes, souvent visible par un large public. Cette escalade verbale crée un environnement toxique et peut dégénérer en harcèlement massif.
+
+### 3.6.23. Name-calling (Utilisation de Surnoms Dégradants)
+
+Le name-calling est l'utilisation systématique de surnoms dégradants, offensants ou humiliants pour s'adresser à une personne. Ces surnoms peuvent cibler l'apparence physique, l'intelligence, l'orientation sexuelle, l'origine ethnique ou d'autres caractéristiques personnelles. Cette tactique vise à rabaisser la victime et à la déshumaniser aux yeux des autres.
+
+### 3.6.24. Cyberflashing
+
+Le cyberflashing est l'envoi non sollicité d'images à caractère sexuel, particulièrement des images de génitaux. Cette pratique est une forme de harcèlement sexuel numérique qui viole l'intimité et le consentement de la personne qui les reçoit. C'est particulièrement courant sur les applications de rencontre, les réseaux sociaux et les messageries instantanées.
+
+### 3.6.25. Pornodivulgation
+
+La pornodivulgation est la diffusion d'images ou de vidéos intimes ou à caractère sexuel d'une personne sans son consentement. Également connue sous le terme anglais "revenge porn", cette pratique est une violation grave de la vie privée et de la dignité. Elle est souvent utilisée comme une arme de vengeance après une rupture amoureuse ou comme une forme d'exploitation sexuelle.
+
+### 3.6.26. Comptes Fisha
+
+Les comptes fisha sont des comptes factices créés spécifiquement pour harceler, tromper ou manipuler d'autres utilisateurs. Ces comptes utilisent généralement de fausses identités, des photos volées ou des images générées par intelligence artificielle pour établir une fausse relation de confiance avec la victime. Une fois la confiance établie, les agresseurs utilisent ces comptes pour extorquer, humilier ou harceler la victime.
+
+### 3.6.27. Stream / Streameur.euse (Harcèlement via Contenu en Direct)
+
+Le harcèlement via stream ou streameur.euse implique l'utilisation de contenu en direct (live streaming) pour harceler, humilier ou coordonner des attaques contre une personne. Les harceleurs peuvent diffuser des vidéos compromettantes, organiser des raids coordonnés pendant une diffusion en direct, ou utiliser le chat en direct pour envoyer des messages haineux en temps réel, amplifiant l'impact du harcèlement devant un public.
+
+### 3.6.28. Troll (Provocation en Ligne)
+
+Le troll est une personne qui poste intentionnellement des messages provocateurs, hors sujet ou offensants dans le but de susciter une réaction émotionnelle, de perturber une discussion en ligne ou de créer du chaos. Le trolling peut être une simple provocation pour s'amuser, mais peut aussi dégénérer en harcèlement systématique. Les trolls cherchent souvent à obtenir de l'attention ou à affirmer leur pouvoir sur les autres.
 
 ## 3.7. Interconnexions entre les Formes de Harcèlement
 
