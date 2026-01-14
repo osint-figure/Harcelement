@@ -95,33 +95,47 @@
     - [4.8.2. Population Adulte](#482-population-adulte)
   - [Difficultés de Détection](#difficultés-de-détection)
 - [5. Formes et Types de Cyberharcèlement](#5-formes-et-types-de-cyberharcèlement)
-  - [5.1. Catégorie 1 : Agressions Directes et Communicationnelles](#51-catégorie-1-agressions-directes-et-communicationnelles)
-    - [5.1.1. Insultes, Moqueries et Humiliations (flaming & Name-calling)](#511-insultes-moqueries-et-humiliations-flaming-name-calling)
-    - [5.1.2. Menaces](#512-menaces)
-    - [5.1.3. Cyberstalking (Cyber-traque)](#513-cyberstalking-cyber-traque)
-  - [5.2. Catégorie 2 : Manipulation de l'identité et de l'information](#52-catégorie-2-manipulation-de-lidentité-et-de-linformation)
-    - [5.2.1. Usurpation D'identité (Impersonation)](#521-usurpation-didentité-impersonation)
-    - [5.2.2. Rumeurs et Désinformation](#522-rumeurs-et-désinformation)
-    - [5.2.3. Doxxing (divulgation D'informations Privées)](#523-doxxing-divulgation-dinformations-privées)
-  - [5.3. Catégorie 3 : Harcèlement à Caractère Sexuel](#53-catégorie-3-harcèlement-à-caractère-sexuel)
-    - [5.3.1. Harcèlement Sexuel en Ligne](#531-harcèlement-sexuel-en-ligne)
-    - [5.3.2. Revenge Porn (Pornodivulgation)](#532-revenge-porn-pornodivulgation)
-    - [5.3.3. Sextorsion](#533-sextorsion)
-    - [5.3.4. Grooming en Ligne (manipulation à des Fins Sexuelles)](#534-grooming-en-ligne-manipulation-à-des-fins-sexuelles)
-  - [5.4. Catégorie 4 : Attaques Technologiques et Coordonnées](#54-catégorie-4-attaques-technologiques-et-coordonnées)
-    - [5.4.1. Swatting](#541-swatting)
-    - [5.4.2. Deepfakes](#542-deepfakes)
-    - [5.4.3. Dogpiling (attaque en Meute)](#543-dogpiling-attaque-en-meute)
-    - [5.4.4. Piratage de Comptes](#544-piratage-de-comptes)
-    - [5.4.5. Attaques par Déni de Service (dos, Ddos) et Actions Associées](#545-attaques-par-déni-de-service-dos-ddos-et-actions-associées)
-    - [5.4.6. Harcèlement Multiplateforme](#546-harcèlement-multiplateforme)
-    - [5.4.7. Astroturfing](#547-astroturfing)
-    - [5.4.8. Zoommodding](#548-zoommodding)
-  - [5.5. Catégorie 5 : Autres Formes de Harcèlement et de Contrôle](#55-catégorie-5-autres-formes-de-harcèlement-et-de-contrôle)
-    - [5.5.1. Discours Haineux](#551-discours-haineux)
-    - [5.5.2. Phishing (Hameçonnage)](#552-phishing-hameçonnage)
-    - [5.5.3. Dog Whistling](#553-dog-whistling)
-    - [5.5.4. Contrôle de l'accès](#554-contrôle-de-laccès)
+    - [5.1. Catégorie 1 : Agressions Directes et Communicationnelles](#51-catégorie-1--agressions-directes-et-communicationnelles)
+        - [5.1.1. Insultes, Moqueries et Humiliations (flaming & Name-calling)](#511-insultes-moqueries-et-humiliations-flaming--name-calling)
+        - [5.1.2. Menaces](#512-menaces)
+        - [5.1.3. Cyberstalking (Cyber-traque)](#513-cyberstalking-cyber-traque)
+        - [5.1.4. Flaming (Guerre d'insultes en public)](#514-flaming-guerre-dinsultes-en-public)
+        - [5.1.5. Name-calling (Utilisation de Surnoms Dégradants)](#515-name-calling-utilisation-de-surnoms-dégradants)
+        - [5.1.6. Bashing (Dénigrement systématique et collectif)](#516-bashing-dénigrement-systématique-et-collectif)
+    - [5.2. Catégorie 2 : Manipulation de l'identité et de l'information](#52-catégorie-2--manipulation-de-lidentité-et-de-linformation)
+        - [5.2.1. Usurpation D'identité (Impersonation)](#521-usurpation-didentité-impersonation)
+        - [5.2.2. Rumeurs et Désinformation](#522-rumeurs-et-désinformation)
+        - [5.2.3. Doxxing (divulgation D'informations Privées)](#523-doxxing-divulgation-dinformations-privées)
+        - [5.2.4. Comptes Fisha (Faux comptes pour tromper ou manipuler)](#524-comptes-fisha-faux-comptes-pour-tromper-ou-manipuler)
+    - [5.3. Catégorie 3 : Harcèlement à Caractère Sexuel](#53-catégorie-3--harcèlement-à-caractère-sexuel)
+        - [5.3.1. Harcèlement Sexuel en Ligne](#531-harcèlement-sexuel-en-ligne)
+        - [5.3.2. Revenge Porn (Pornodivulgation)](#532-revenge-porn-pornodivulgation)
+        - [5.3.3. Sextorsion](#533-sextorsion)
+        - [5.3.4. Grooming en Ligne (manipulation à des Fins Sexuelles)](#534-grooming-en-ligne-manipulation-à-des-fins-sexuelles)
+        - [5.3.5. Cyberflashing (Envoi non sollicité d'images sexuelles)](#535-cyberflashing-envoi-non-sollicité-dimages-sexuelles)
+        - [5.3.6. Dickpic (Envoi non sollicité de photos de pénis)](#536-dickpic-envoi-non-sollicité-de-photos-de-pénis)
+        - [5.3.7. Chantage à la Webcam](#537-chantage-à-la-webcam)
+    - [5.4. Catégorie 4 : Attaques Technologiques et Coordonnées](#54-catégorie-4--attaques-technologiques-et-coordonnées)
+        - [5.4.1. Swatting](#541-swatting)
+        - [5.4.2. Deepfakes](#542-deepfakes)
+        - [5.4.3. Dogpiling (attaque en Meute)](#543-dogpiling-attaque-en-meute)
+        - [5.4.4. Piratage de Comptes](#544-piratage-de-comptes)
+        - [5.4.5. Attaques par Déni de Service (dos, Ddos) et Actions Associées](#545-attaques-par-déni-de-service-dos-ddos-et-actions-associées)
+        - [5.4.6. Harcèlement Multiplateforme](#546-harcèlement-multiplateforme)
+        - [5.4.7. Astroturfing](#547-astroturfing)
+        - [5.4.8. Zoommodding](#548-zoommodding)
+        - [5.4.9. Raid Numérique](#549-raid-numérique)
+    - [5.5. Catégorie 5 : Autres Formes de Harcèlement et de Contrôle](#55-catégorie-5--autres-formes-de-harcèlement-et-de-contrôle)
+        - [5.5.1. Discours Haineux](#551-discours-haineux)
+        - [5.5.2. Phishing (Hameçonnage)](#552-phishing-hameçonnage)
+        - [5.5.3. Dog Whistling](#553-dog-whistling)
+        - [5.5.4. Contrôle de l'accès](#554-contrôle-de-laccès)
+        - [5.5.5. Body Shaming](#555-body-shaming)
+        - [5.5.6. Infantilisation (Lollipopping)](#556-infantilisation-lollipopping)
+        - [5.5.7. Hashtag Toxique (Hashtag Poisoning)](#557-hashtag-toxique-hashtag-poisoning)
+        - [5.5.8. Hameçonnage (Phishing)](#558-hameçonnage-phishing)
+        - [5.5.9. Troll (Provocation en Ligne)](#559-troll-provocation-en-ligne)
+        - [5.5.10. Challenge (Défi en ligne)](#5510-challenge-défi-en-ligne)
 - [6. Causes et Motivations du Cyberharcèlement](#6-causes-et-motivations-du-cyberharcèlement)
   - [Facteurs Psychologiques Individuels : le Moteur Interne](#facteurs-psychologiques-individuels-le-moteur-interne)
     - [La Quête de Pouvoir et de Contrôle](#la-quête-de-pouvoir-et-de-contrôle)
@@ -711,16 +725,13 @@ Le cyberharcèlement est un phénomène polymorphe qui se manifeste à travers u
 
 Avant de détailler chaque forme de cyberharcèlement, voici une synthèse visuelle qui vous permettra de comprendre rapidement les différentes catégories, leurs impacts et leurs supports privilégiés. Ces tableaux servent de guide de référence rapide.
 
-
 | Catégorie | Formes Principales | Objectif de l'Agresseur | Supports Privilégiés | Gravité |
 |-----------|-------------------|------------------------|----------------------|---------|
-| **1. Agressions Directes et Communicationnelles** | Insultes, Menaces, Cyberstalking | Blesser, humilier, intimider directement | Réseaux sociaux, messageries privées, emails | Moyenne à Haute |
-| **2. Manipulation de l'Identité et de l'Information** | Usurpation d'identité, Rumeurs, Doxxing | Détruire la réputation, isoler socialement | Réseaux sociaux, forums, blogs | Moyenne à Haute |
-| **3. Harcèlement à Caractère Sexuel** | Harcèlement sexuel, Revenge porn, Sextorsion, Grooming | Contrôler, exploiter, humilier sexuellement | Réseaux sociaux, messageries, plateformes de partage | **Très Haute** |
-| **4. Attaques Technologiques et Coordonnées** | Swatting, Deepfakes, Dogpiling, Piratage, DDoS | Submerger, terroriser, censurer | Réseaux sociaux, plateformes vidéo, sites web | **Très Haute** |
-| **5. Autres Formes de Harcèlement et de Contrôle** | Discours haineux, Phishing, Dog whistling, Contrôle d'accès | Discriminer, voler des données, isoler | Tous les supports numériques | Moyenne à Haute |
-
----
+| **1. Agressions Directes et Communicationnelles** | Insultes, Menaces, Cyberstalking, Flaming, Name-calling, Bashing | Blesser, humilier, intimider directement | Réseaux sociaux, messageries privées, emails | Moyenne à Haute |
+| **2. Manipulation de l'Identité et de l'Information** | Usurpation d'identité, Rumeurs, Doxxing, Comptes Fisha | Détruire la réputation, isoler socialement | Réseaux sociaux, forums, blogs | Moyenne à Haute |
+| **3. Harcèlement à Caractère Sexuel** | Harcèlement sexuel, Revenge porn, Sextorsion, Grooming, Cyberflashing, Dickpic, Chantage à la Webcam | Contrôler, exploiter, humilier sexuellement | Réseaux sociaux, messageries, plateformes de partage | **Très Haute** |
+| **4. Attaques Technologiques et Coordonnées** | Swatting, Deepfakes, Dogpiling, Piratage, DDoS, Raid Numérique, Astroturfing, Zoommodding, Bombardement de Messages, Attaques DoS | Submerger, terroriser, censurer | Réseaux sociaux, plateformes vidéo, sites web | **Très Haute** |
+| **5. Autres Formes de Harcèlement et de Contrôle** | Discours haineux, Phishing, Dog whistling, Contrôle d'accès, Body Shaming, Infantilisation, Hashtag Toxique, Hameçonnage, Troll, Challenge | Discriminer, voler des données, isoler | Tous les supports numériques | Moyenne à Haute |
 
 | Catégorie | Impacts Psychologiques Principaux | Impacts Comportementaux | Risque de Crise |
 |-----------|-----------------------------------|------------------------|-----------------|
@@ -730,20 +741,25 @@ Avant de détailler chaque forme de cyberharcèlement, voici une synthèse visue
 | **4. Attaques Technologiques** | Peur extrême, stress post-traumatique, sentiment d'impuissance | Fermeture des comptes, isolement numérique | **Très Élevé** (swatting = risque physique) |
 | **5. Autres Formes** | Sentiment de rejet, peur, confusion, isolement | Retrait de la vie numérique, perte d'autonomie | Modéré à Élevé |
 
----
-
 | Forme de Harcèlement | Catégorie | Support Principal | Exemple Concret | Indicateurs d'Alerte |
 |----------------------|-----------|-------------------|-----------------|----------------------|
 | **Insultes & Moqueries** | 1 | Réseaux sociaux, commentaires | Commentaires dégradants sur une photo | Accumulation de commentaires négatifs |
 | **Menaces** | 1 | Messageries privées, emails | Menaces de mort, de viol | Messages explicites de violence |
 | **Cyberstalking** | 1 | Réseaux sociaux, localisation | Suivi constant de l'activité en ligne | Surveillance persistante, messages non sollicités |
+| **Flaming** | 1 | Réseaux sociaux, forums | Guerre d'insultes publique | Escalade verbale visible |
+| **Name-calling** | 1 | Tous les supports | Utilisation de surnoms dégradants | Surnoms répétés et offensants |
+| **Bashing** | 1 | Réseaux sociaux, forums | Dénigrement systématique collectif | Accumulation d'attaques négatives |
 | **Usurpation d'Identité** | 2 | Réseaux sociaux | Faux compte au nom de la victime | Compte dupliqué avec contenu offensant |
 | **Rumeurs & Désinformation** | 2 | Groupes WhatsApp, forums | Fausse accusation de triche | Propagation rapide d'informations fausses |
 | **Doxxing** | 2 | Forums, réseaux sociaux | Publication d'adresse personnelle | Partage d'informations privées identifiantes |
+| **Comptes Fisha** | 2 | Réseaux sociaux, messageries | Faux comptes pour tromper ou manipuler | Profils suspects avec fausses identités |
 | **Harcèlement Sexuel** | 3 | Messageries, réseaux sociaux | Commentaires/images sexuels non sollicités | Messages à connotation sexuelle répétés |
 | **Revenge Porn** | 3 | Réseaux sociaux, sites spécialisés | Partage de photos intimes après rupture | Images intimes partagées sans consentement |
 | **Sextorsion** | 3 | Messageries, réseaux sociaux | Chantage avec photos intimes | Demandes d'argent ou de nouvelles images |
 | **Grooming** | 3 | Réseaux sociaux, jeux en ligne | Relation de confiance établie pour exploitation | Escalade progressive de demandes intimes |
+| **Cyberflashing** | 3 | Messageries, réseaux sociaux | Envoi non sollicité d'images sexuelles | Images sexuelles reçues sans consentement |
+| **Dickpic** | 3 | Applications de rencontre, messageries | Envoi non sollicité de photos de pénis | Images génitales reçues sans demande |
+| **Chantage à la Webcam** | 3 | Messageries, réseaux sociaux | Menace de publier vidéo intime | Demandes d'argent ou de contenus |
 | **Swatting** | 4 | Appels d'urgence, réseaux sociaux | Faux signalement d'urgence grave | Intervention policière inattendue |
 | **Deepfakes** | 4 | Réseaux sociaux, plateformes vidéo | Vidéo pornographique avec le visage de la victime | Vidéos hyperréalistes compromettantes |
 | **Dogpiling** | 4 | Réseaux sociaux (Twitter, TikTok) | Vague d'insultes après un retweet d'influenceur | Explosion soudaine de messages haineux |
@@ -752,14 +768,18 @@ Avant de détailler chaque forme de cyberharcèlement, voici une synthèse visue
 | **Harcèlement Multiplateforme** | 4 | Tous les supports | Attaques coordonnées sur Instagram, TikTok, Twitter | Harcèlement qui continue sur plusieurs plateformes |
 | **Astroturfing** | 4 | Réseaux sociaux | Armée de bots harcelant des journalistes | Attaques massives et coordonnées d'apparence spontanée |
 | **Zoommodding** | 4 | Réunions virtuelles (Zoom, Teams) | Perturbation d'une réunion avec contenu offensant | Interruption de réunion par du contenu haineux |
+| **Bombardement de Messages** | 4 | Messageries, réseaux sociaux | Inondation de messages pour bloquer la communication | Accumulation massive de messages indésirables |
+| **Raid Numérique** | 4 | Réseaux sociaux, forums | Attaque coordonnée et massive | Vague organisée de messages haineux |
 | **Discours Haineux** | 5 | Tous les supports | Attaques basées sur la race, le genre, la religion | Messages ciblant des caractéristiques identitaires |
 | **Phishing** | 5 | Emails, SMS | Lien malveillant pour voler des identifiants | Emails/SMS semblant provenir d'une source fiable |
 | **Dog Whistling** | 5 | Réseaux sociaux, forums | Symboles/mots codés pour coordonner des attaques | Langage codé difficile à détecter |
 | **Contrôle d'Accès** | 5 | Appareils partagés, connexions Internet | Restriction d'accès à Internet ou aux appareils | Isolement numérique dans une relation abusive |
-
----
-
----
+| **Body Shaming** | 5 | Réseaux sociaux visuels | Humiliation basée sur l'apparence physique | Moqueries répétées sur l'apparence |
+| **Infantilisation** | 5 | Réseaux sociaux, forums | Décrédibilisation par langage condescendant | Langage paternaliste et dégradant |
+| **Hashtag Toxique** | 5 | Réseaux sociaux | Détournement de hashtags pour coordonner des attaques | Hashtags utilisés pour harceler |
+| **Hameçonnage** | 5 | Emails, SMS, messageries | Escroquerie par communication trompeuse | Communications semblant provenir de sources fiables |
+| **Troll** | 5 | Forums, réseaux sociaux, commentaires | Provocation en ligne intentionnelle | Messages provocateurs et hors sujet |
+| **Challenge** | 5 | Réseaux sociaux | Défis en ligne potentiellement dangereux | Défis incitant à des comportements dangereux |
 
 ## 5.1. Catégorie 1 : Agressions Directes et Communicationnelles
 
@@ -782,6 +802,24 @@ Ces attaques impliquent une communication directe et hostile envers la victime, 
 *   **Définition** : Le cyberstalking est la traque et le harcèlement répété d'une personne en ligne, de sorte que cette dernière ne se sente plus en sécurité et que sa manière de vivre en soit affectée. Cela peut inclure la surveillance de la localisation, le suivi des activités en ligne ou la collecte d'informations personnelles pour maintenir une pression constante.
 *   **Impact Spécifique** : Sentiment de persécution, perte de la vie privée, anxiété chronique et peur pour sa sécurité personnelle.
 
+### 5.1.4. Flaming (Guerre d'insultes en public)
+
+*   **Définition** : Le flaming est une escalade verbale où deux ou plusieurs personnes échangent des insultes agressives et répétées en public sur les plateformes numériques. Contrairement aux insultes isolées, le flaming implique un échange continu et visible par un large public, créant un environnement toxique.
+*   **Exemple Concret** : Deux utilisateurs sur un forum commencent par un désaccord politique mineur, qui dégénère rapidement en échange d'insultes personnelles et dégradantes, attirant d'autres utilisateurs qui se joignent à l'attaque.
+*   **Impact Spécifique** : Humiliation publique, stress émotionnel, perte de réputation, peur de participer à des discussions en ligne.
+
+### 5.1.5. Name-calling (Utilisation de Surnoms Dégradants)
+
+*   **Définition** : Le name-calling est l'utilisation systématique de surnoms dégradants, offensants ou humiliants pour s'adresser à une personne. Ces surnoms peuvent cibler l'apparence physique, l'intelligence, l'orientation sexuelle, l'origine ethnique ou d'autres caractéristiques personnelles.
+*   **Exemple Concret** : Un utilisateur est constamment appelé par des surnoms péjoratifs basés sur son poids, son accent ou son origine dans les commentaires de ses publications.
+*   **Impact Spécifique** : Sentiment d'être déshumanisé, perte d'estime de soi, anxiété sociale, retrait des interactions en ligne.
+
+### 5.1.6. Bashing (Dénigrement systématique et collectif)
+
+*   **Définition** : Le bashing est le dénigrement systématique et collectif d'une personne ou d'un groupe sur une durée prolongée. Contrairement à une "session vanne" qui peut être ponctuelle, le bashing s'apparente à un lynchage médiatique continu créant une stigmatisation progressive.
+*   **Exemple Concret** : Une personnalité publique est constamment critiquée et dévalorisée par des groupes organisés qui coordonnent des campagnes de dénigrement sur plusieurs plateformes.
+*   **Impact Spécifique** : Isolement social progressif, destruction de la réputation, dépression chronique, sentiment de persécution permanente.
+
 ## 5.2. Catégorie 2 : Manipulation de l'identité et de l'information
 
 Ces tactiques visent à nuire à la réputation et à la vie privée de la victime en manipulant des informations la concernant ou en créant un environnement hostile sans communication directe.
@@ -803,6 +841,12 @@ Ces tactiques visent à nuire à la réputation et à la vie privée de la victi
 *   **Définition** : Le "doxxing" (de "dropping docs") est la recherche et la publication en ligne d'informations personnelles et identifiantes d'un individu sans son consentement. Cela peut inclure son adresse personnelle, son numéro de téléphone, son lieu de travail, les noms des membres de sa famille, etc., dans le but de harceler, d'intimider ou d'extorquer.
 *   **Exemple Concret** : Un joueur en ligne, frustré après une défaite, recherche et publie l'adresse personnelle de son adversaire sur un forum, en appelant d'autres à le harceler dans la vie réelle.
 *   **Impact Spécifique** : Passage du virtuel au réel, peur d'agressions physiques, violation extrême de la vie privée, obligation de déménager dans les cas extrêmes.
+
+### 5.2.4. Comptes Fisha (Faux comptes pour tromper ou manipuler)
+
+*   **Définition** : Les comptes fisha sont des comptes factices créés spécifiquement pour harceler, tromper ou manipuler d'autres utilisateurs. Ces comptes utilisent généralement de fausses identités, des photos volées ou des images générées par intelligence artificielle pour établir une fausse relation de confiance avec la victime.
+*   **Exemple Concret** : Un prédateur crée un faux profil attractif pour établir une relation de confiance avec une adolescente, dans le but d'obtenir des photos intimes ou de l'exploiter.
+*   **Impact Spécifique** : Violation de confiance, manipulation psychologique, risque d'exploitation sexuelle, trauma émotionnel.
 
 ## 5.3. Catégorie 3 : Harcèlement à Caractère Sexuel
 
@@ -829,6 +873,24 @@ Ces attaques utilisent la sexualité comme une arme pour humilier, contrôler et
 
 *   **Définition** : Le grooming consiste à utiliser des plateformes numériques pour instaurer une relation de confiance, souvent avec une personne mineure, en vue d'une exploitation sexuelle ou de traite d'êtres humains.
 *   **Impact Spécifique** : Manipulation psychologique profonde, risque élevé d'abus sexuel et traumatisme durable.
+
+### 5.3.5. Cyberflashing (Envoi non sollicité d'images sexuelles)
+
+*   **Définition** : Le cyberflashing est l'envoi non sollicité d'images à caractère sexuel, particulièrement des images de génitaux. Cette pratique est une forme de harcèlement sexuel numérique qui viole l'intimité et le consentement de la personne qui les reçoit.
+*   **Exemple Concret** : Un utilisateur envoie des images sexuelles explicites à des femmes sur une application de rencontre sans leur consentement.
+*   **Impact Spécifique** : Sentiment de violation, dégoût, peur d'utiliser les plateformes numériques, anxiété.
+
+### 5.3.6. Dickpic (Envoi non sollicité de photos de pénis)
+
+*   **Définition** : Le dickpic est l'envoi non sollicité d'une photo de pénis, généralement en érection. Cette pratique est une forme de harcèlement sexuel et d'exhibitionnisme numérique, constituant une agression et une violation de l'intimité.
+*   **Exemple Concret** : Un homme envoie une photo de ses génitaux à une femme sur les réseaux sociaux ou une application de messagerie sans qu'elle l'ait demandé.
+*   **Impact Spécifique** : Sentiment d'agression sexuelle, violation de l'intimité, peur, dégoût.
+
+### 5.3.7. Chantage à la Webcam
+
+*   **Définition** : Le chantage à la webcam est le fait de menacer de publier sur Internet une vidéo intime de la victime enregistrée à son insu. Une rançon ou davantage de contenus intimes sont alors demandés pour qu'elle ne soit pas diffusée.
+*   **Exemple Concret** : Un prédateur utilise un logiciel malveillant pour accéder à la webcam d'une victime, enregistre des vidéos intimes, puis demande de l'argent sous peine de les publier.
+*   **Impact Spécifique** : Peur extrême, sentiment de piège, honte intense, risque financier, danger d'escalade.
 
 ## 5.4. Catégorie 4 : Attaques Technologiques et Coordonnées
 
@@ -878,8 +940,14 @@ Ces formes de harcèlement exploitent la technologie pour submerger, faire taire
 
 ### 5.4.8. Zoommodding
 
-*   **Définition** : Le zoommoding consiste à détourner une réunion virtuelle et à perturber la communication par le partage de texte, de vidéo ou d'audio offensants. Cette pratique s'est généralisée avec l'augmentation des réunions virtuelles, notamment pendant la pandémie de COVID-19.
+*   **Définition** : Le zoommodding consiste à détourner une réunion virtuelle et à perturber la communication par le partage de texte, de vidéo ou d'audio offensants. Cette pratique s'est généralisée avec l'augmentation des réunions virtuelles, notamment pendant la pandémie de COVID-19.
 *   **Impact Spécifique** : Perturbation de réunions professionnelles ou éducatives, humiliation publique des participants, perte de confiance dans les outils de communication virtuelle.
+
+### 5.4.9. Raid Numérique
+
+*   **Définition** : Un raid numérique est une attaque coordonnée et massive menée par un groupe d'individus contre une personne ou une entité en ligne. Le terme 'raid' insiste sur l'aspect organisé et quasi-militaire de l'assaut, visant à submerger la cible de messages haineux, de spams, de fausses accusations ou de contenu offensant.
+*   **Exemple Concret** : Un groupe organisé coordonne une attaque simultanée sur les réseaux sociaux d'une cible, inondant ses publications de commentaires haineux et de signalements en masse.
+*   **Impact Spécifique** : Sentiment d'être attaqué par une force organisée, fermeture de comptes, isolement numérique.
 
 ## 5.5. Catégorie 5 : Autres Formes de Harcèlement et de Contrôle
 
@@ -902,6 +970,42 @@ Ces formes de harcèlement exploitent la technologie pour submerger, faire taire
 
 *   **Définition** : Dans le contexte de relations abusives, cette forme de contrôle consiste à restreindre ou surveiller l'accès d'une personne à des appareils partagés, à Internet ou même à l'électricité, afin de l'isoler et de la contrôler.
 *   **Impact Spécifique** : Isolement social, perte d'autonomie et dépendance vis-à-vis de l'agresseur.
+
+### 5.5.5. Body Shaming
+
+*   **Définition** : Le body shaming est une forme d'humiliation ciblée sur l'apparence physique d'une personne. Les moqueries et insultes visent des caractéristiques jugées non conformes aux standards sociaux (poids, taille, musculature, traits faciaux, etc.), renforçant les complexes et l'anxiété sociale.
+*   **Exemple Concret** : Une adolescente reçoit constamment des commentaires moqueurs sur son poids dans les commentaires de ses photos Instagram.
+*   **Impact Spécifique** : Troubles de l'image corporelle, anxiété sociale, dépression, troubles alimentaires potentiels.
+
+### 5.5.6. Infantilisation (Lollipopping)
+
+*   **Définition** : L'infantilisation est une tactique de décrédibilisation, visant principalement les femmes, qui consiste à utiliser un langage condescendant (surnoms comme 'ma poupée', 'chérie', 'ma petite') ou des arguments paternalistes pour rejeter leurs opinions et les exclure du débat.
+*   **Exemple Concret** : Une femme exprime une opinion politique, et un homme répond avec un ton condescendant : "Allons, ma chérie, tu ne comprends pas vraiment ces choses complexes."
+*   **Impact Spécifique** : Sentiment d'être dévalorisée, perte de confiance en ses opinions, autocensure.
+
+### 5.5.7. Hashtag Toxique (Hashtag Poisoning)
+
+*   **Définition** : Le hashtag toxique est une tactique consistant à créer un hashtag abusif ou à détourner un hashtag existant pour organiser et amplifier une campagne de harcèlement. Le hashtag devient un cri de ralliement pour dénigrer, intimider et coordonner les attaques contre une cible.
+*   **Exemple Concret** : Un groupe crée un hashtag dégradant ciblant une personnalité publique et l'utilise pour coordonner des attaques massives.
+*   **Impact Spécifique** : Amplification virale du harcèlement, sentiment d'être ciblé par une campagne organisée.
+
+### 5.5.8. Hameçonnage (Phishing)
+
+*   **Définition** : L'hameçonnage est une escroquerie en ligne qui commence par une forme de communication (email, SMS, message WhatsApp) conçue pour donner l'impression qu'elle provient d'une source fiable. Le but est de vous inciter à faire quelque chose (cliquer sur un lien, ouvrir une pièce jointe) qui peut automatiquement télécharger un virus sur votre appareil ou vous amener à entrer des renseignements personnels.
+*   **Exemple Concret** : Un email prétendant provenir d'une banque demande à la victime de cliquer sur un lien pour "vérifier son compte", qui mène en réalité à un site frauduleux.
+*   **Impact Spécifique** : Perte d'accès aux comptes, vol d'identité, perte financière.
+
+### 5.5.9. Troll (Provocation en Ligne)
+
+*   **Définition** : Le troll est une personne qui poste intentionnellement des messages provocateurs, hors sujet ou offensants dans le but de susciter une réaction émotionnelle, de perturber une discussion en ligne ou de créer du chaos. Le trolling peut être une simple provocation pour s'amuser, mais peut aussi dégénérer en harcèlement systématique.
+*   **Exemple Concret** : Un utilisateur poste constamment des messages offensants et provocateurs dans les commentaires d'un créateur de contenu pour obtenir de l'attention.
+*   **Impact Spécifique** : Perturbation des discussions, stress émotionnel pour les autres utilisateurs, création d'un environnement hostile.
+
+### 5.5.10. Challenge (Défi en ligne)
+
+*   **Définition** : Un challenge est un défi lancé sur les réseaux sociaux. Si beaucoup sont inoffensifs ou amusants, certains peuvent inciter à des pratiques dangereuses, illégales ou humiliantes. Dans le contexte du harcèlement, un challenge peut être utilisé pour pousser une victime à s'auto-humilier ou à se mettre en danger.
+*   **Exemple Concret** : Un groupe crée un challenge humiliant ciblant une personne spécifique et l'encourage à participer sous peine de harcèlement.
+*   **Impact Spécifique** : Humiliation publique, mise en danger physique, pression sociale extrême.
 
 # 6. Causes et Motivations du Cyberharcèlement
 
